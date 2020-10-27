@@ -1,0 +1,212 @@
+h1 {
+   color: black;
+   display: block;
+   font-family: "Courier New", Courier, monospace;
+   font-size: 55px;
+   text-align: center;
+   padding: 50px 50px 30px 50px;
+   text-transform: uppercase;
+}
+
+h2 {
+    color: #5A5252;
+    display: block;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 25px;
+    font-weight: bolder;
+    margin: 0px 10px;
+}
+
+hr {
+    height: 1.5px;
+    background-color: #bb2222;
+    margin-bottom: 15px;
+    border: none;
+}
+
+h3 {
+    color: #bb2222;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 25px;
+    margin: 0px;
+    padding: 2%;
+    text-align: left;
+}
+
+.amourducafé {
+    color: #5A5252;
+    font-style: italic;
+    font-family: "Lucida Console", Courier, monospace;
+    margin: 10px 50px;
+    text-align: justify;
+}
+
+h4 {
+    color: black;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 30px;
+    text-align: right;
+    padding: 50px 5px 0px 5px;
+    margin: 0px;
+}
+
+.linkcrew {
+    text-decoration: none;
+    color: black;
+}
+
+h4 :hover {
+    color: #bb2222;
+    transition: all 200ms ease-in-out;
+    cursor: pointer;
+}
+
+h5 {
+    color: #5A5252;
+    font-style: italic;
+    font-family: "Lucida Console", Courier, monospace;
+    font-size: 15px;
+    text-align: right;
+    padding: 0px;
+    margin: 0px;
+}
+
+.blackhr {
+    height: 4px;
+    background-color: black;
+    margin: 5px 5px 10px 5px;
+    border: none;
+}
+
+.crewimg {
+    display: block;
+    width: 350px;
+    height: 300px;
+    max-width: 80%;
+    border-radius: 20px;
+    float: left;
+    margin: 40px;
+    padding: 5px;
+}
+
+.pcrew {
+    color: #5A5252;
+    display: block;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 14px;
+    line-height: 2;
+    padding: 5px;
+    margin: 50px 5px 50px 5px;
+    text-align: justify;
+}
+
+h6 {
+    color: black;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 30px;
+    text-align: left;
+    padding: 50px 5px 0px 5px;
+    margin: 0px;
+}
+
+.linkpista {
+    text-decoration: none;
+    color: black;
+}
+
+h6 :hover {
+    color: #bb2222;
+    transition: all 200ms ease-in-out;
+    cursor: pointer;
+    color: #bb2222;
+    transition: all 200ms ease-in-out;
+    cursor: pointer;
+}
+
+h7 {
+    color: #5A5252;
+    font-style: italic;
+    font-family: "Lucida Console", Courier, monospace;
+    font-size: 15px;
+    font-weight: 700;
+    text-align: right;
+    padding: 0px;
+    margin: 0px;
+}
+
+.pistaimg {
+    display: block;
+    width: 350px;
+    height: 300px;
+    max-width: 80%;
+    border-radius: 20px;
+    float: right;
+    margin: 40px;
+    padding: 5px;
+}
+
+.ppista {
+    color: #5A5252;
+    display: block;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 14px;
+    line-height: 2;
+    padding: 5px;
+    margin: 50px 5px 100px 5px;
+    text-align: justify;
+}
+
+.hrbottom {
+    height: 1.5px;
+    display: block;
+    background-color: #bb2222;
+    margin: 100px;
+}
+
+h8 {
+    color: #5A5252;
+    display: block;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 20px;
+    padding: 5px;
+    margin: 50px 5px 50px 5px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    background: linear-gradient(#bb2222, #c63939, #bb2222);
+    color: white;
+    font-size: 20px;
+    padding: 25px 75px;
+    box-sizing: border-box;
+    border: none;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.9);
+    transition: all 200ms ease-in-out;
+    text-transform: uppercase;
+}
+
+button:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.footer {
+    color: #5A5252;
+    display: block;
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+    margin: 50px;
+}
+
+.linkin {
+    text-decoration: none;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px 40px;
+}
